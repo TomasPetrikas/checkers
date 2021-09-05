@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543174976 source:c:\users\tomas\desktop\programs\c\programavimo pagrindai\homework\checkers\main.c
+	<assert.h>
+	<ctype.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
